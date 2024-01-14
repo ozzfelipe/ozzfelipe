@@ -2,9 +2,9 @@
 <h3 align="center">I am a Mobile Developer with over five years of experience in creating mobile applications for Android and iOS and I'm working from Brasil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozzfelipe&label=Profile%20views&color=0e75b6&style=flat" alt="ozzfelipe" /> </p>
-
+<!---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozzfelipe" alt="ozzfelipe" /></a> </p>
-
+-->
 - 🔭 I’m currently working at [Amcom Sistemas de informação](https://amcom.com.br/)
 
 - 🌱 I’m currently learning **Kotlin multiplatform**
