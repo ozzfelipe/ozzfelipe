@@ -5,9 +5,9 @@
 <!---
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozzfelipe" alt="ozzfelipe" /></a> </p>
 -->
-- 🔭 I’m currently working at [Amcom Sistemas de informação](https://amcom.com.br/)
+- 🔭 I’m currently working at [Stone co](https://www.stone.com.br/)
 
-- 🌱 I’m currently learning **Kotlin multiplatform**
+- 🌱 I’m currently working with **Kotlin multiplatform (KMP)** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
